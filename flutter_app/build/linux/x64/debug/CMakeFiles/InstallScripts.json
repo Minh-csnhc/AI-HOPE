@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/minh/AI-HOPE/flutter_app/build/linux/x64/debug/cmake_install.cmake",
+		"/home/minh/AI-HOPE/flutter_app/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/home/minh/AI-HOPE/flutter_app/build/linux/x64/debug/runner/cmake_install.cmake",
+		"/home/minh/AI-HOPE/flutter_app/build/linux/x64/debug/plugins/jni/cmake_install.cmake",
+		"/home/minh/AI-HOPE/flutter_app/build/linux/x64/debug/plugins/jni/shared/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
